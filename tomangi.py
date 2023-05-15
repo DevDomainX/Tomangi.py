@@ -14,7 +14,7 @@ from random import choice
 def Ingreso():
     print(Fore.LIGHTCYAN_EX+"                 ****Ingreso de jugadores  ****\n")
     print("""
-    Este juago tiene Ingreso de 10 jugadores y 10 tragos
+    Este juego tiene Ingreso de 10 jugadores y 10 tragos
 
     al no tener 10 solo ingresen los que tengan y en el resto solo dele enter
     
